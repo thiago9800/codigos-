@@ -1,0 +1,16 @@
+C:\Users\pesqu\source\repos\inverter os caracteres de um string\bin\Debug\net5.0\inverter os caracteres de um string..exe
+C:\Users\pesqu\source\repos\inverter os caracteres de um string\bin\Debug\net5.0\inverter os caracteres de um string..deps.json
+C:\Users\pesqu\source\repos\inverter os caracteres de um string\bin\Debug\net5.0\inverter os caracteres de um string..runtimeconfig.json
+C:\Users\pesqu\source\repos\inverter os caracteres de um string\bin\Debug\net5.0\inverter os caracteres de um string..runtimeconfig.dev.json
+C:\Users\pesqu\source\repos\inverter os caracteres de um string\bin\Debug\net5.0\inverter os caracteres de um string..dll
+C:\Users\pesqu\source\repos\inverter os caracteres de um string\bin\Debug\net5.0\ref\inverter os caracteres de um string..dll
+C:\Users\pesqu\source\repos\inverter os caracteres de um string\bin\Debug\net5.0\inverter os caracteres de um string..pdb
+C:\Users\pesqu\source\repos\inverter os caracteres de um string\obj\Debug\net5.0\inverter os caracteres de um string..csproj.AssemblyReference.cache
+C:\Users\pesqu\source\repos\inverter os caracteres de um string\obj\Debug\net5.0\inverter os caracteres de um string..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pesqu\source\repos\inverter os caracteres de um string\obj\Debug\net5.0\inverter os caracteres de um string..AssemblyInfoInputs.cache
+C:\Users\pesqu\source\repos\inverter os caracteres de um string\obj\Debug\net5.0\inverter os caracteres de um string..AssemblyInfo.cs
+C:\Users\pesqu\source\repos\inverter os caracteres de um string\obj\Debug\net5.0\inverter os caracteres de um string..csproj.CoreCompileInputs.cache
+C:\Users\pesqu\source\repos\inverter os caracteres de um string\obj\Debug\net5.0\inverter os caracteres de um string..dll
+C:\Users\pesqu\source\repos\inverter os caracteres de um string\obj\Debug\net5.0\ref\inverter os caracteres de um string..dll
+C:\Users\pesqu\source\repos\inverter os caracteres de um string\obj\Debug\net5.0\inverter os caracteres de um string..pdb
+C:\Users\pesqu\source\repos\inverter os caracteres de um string\obj\Debug\net5.0\inverter os caracteres de um string..genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "inverter os caracteres de um string./1.0.0": {
+        "runtime": {
+          "inverter os caracteres de um string..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "inverter os caracteres de um string./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
