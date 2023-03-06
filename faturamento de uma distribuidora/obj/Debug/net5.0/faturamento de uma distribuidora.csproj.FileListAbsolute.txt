@@ -1,0 +1,18 @@
+C:\Users\pesqu\source\repos\faturamento de uma distribuidora\bin\Debug\net5.0\faturamento de uma distribuidora.exe
+C:\Users\pesqu\source\repos\faturamento de uma distribuidora\bin\Debug\net5.0\faturamento de uma distribuidora.deps.json
+C:\Users\pesqu\source\repos\faturamento de uma distribuidora\bin\Debug\net5.0\faturamento de uma distribuidora.runtimeconfig.json
+C:\Users\pesqu\source\repos\faturamento de uma distribuidora\bin\Debug\net5.0\faturamento de uma distribuidora.runtimeconfig.dev.json
+C:\Users\pesqu\source\repos\faturamento de uma distribuidora\bin\Debug\net5.0\faturamento de uma distribuidora.dll
+C:\Users\pesqu\source\repos\faturamento de uma distribuidora\bin\Debug\net5.0\ref\faturamento de uma distribuidora.dll
+C:\Users\pesqu\source\repos\faturamento de uma distribuidora\bin\Debug\net5.0\faturamento de uma distribuidora.pdb
+C:\Users\pesqu\source\repos\faturamento de uma distribuidora\obj\Debug\net5.0\faturamento de uma distribuidora.csproj.AssemblyReference.cache
+C:\Users\pesqu\source\repos\faturamento de uma distribuidora\obj\Debug\net5.0\faturamento de uma distribuidora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pesqu\source\repos\faturamento de uma distribuidora\obj\Debug\net5.0\faturamento de uma distribuidora.AssemblyInfoInputs.cache
+C:\Users\pesqu\source\repos\faturamento de uma distribuidora\obj\Debug\net5.0\faturamento de uma distribuidora.AssemblyInfo.cs
+C:\Users\pesqu\source\repos\faturamento de uma distribuidora\obj\Debug\net5.0\faturamento de uma distribuidora.csproj.CoreCompileInputs.cache
+C:\Users\pesqu\source\repos\faturamento de uma distribuidora\obj\Debug\net5.0\faturamento de uma distribuidora.dll
+C:\Users\pesqu\source\repos\faturamento de uma distribuidora\obj\Debug\net5.0\ref\faturamento de uma distribuidora.dll
+C:\Users\pesqu\source\repos\faturamento de uma distribuidora\obj\Debug\net5.0\faturamento de uma distribuidora.pdb
+C:\Users\pesqu\source\repos\faturamento de uma distribuidora\obj\Debug\net5.0\faturamento de uma distribuidora.genruntimeconfig.cache
+C:\Users\pesqu\source\repos\faturamento de uma distribuidora\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\pesqu\source\repos\faturamento de uma distribuidora\obj\Debug\net5.0\faturamento de uma distribuidora.csproj.CopyComplete
