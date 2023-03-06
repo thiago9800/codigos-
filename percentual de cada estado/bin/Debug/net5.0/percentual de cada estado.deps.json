@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "percentual de cada estado/1.0.0": {
+        "runtime": {
+          "percentual de cada estado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "percentual de cada estado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

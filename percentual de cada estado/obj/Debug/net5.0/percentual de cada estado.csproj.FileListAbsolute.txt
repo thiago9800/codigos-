@@ -1,0 +1,16 @@
+C:\Users\pesqu\source\repos\percentual de cada estado\bin\Debug\net5.0\percentual de cada estado.exe
+C:\Users\pesqu\source\repos\percentual de cada estado\bin\Debug\net5.0\percentual de cada estado.deps.json
+C:\Users\pesqu\source\repos\percentual de cada estado\bin\Debug\net5.0\percentual de cada estado.runtimeconfig.json
+C:\Users\pesqu\source\repos\percentual de cada estado\bin\Debug\net5.0\percentual de cada estado.runtimeconfig.dev.json
+C:\Users\pesqu\source\repos\percentual de cada estado\bin\Debug\net5.0\percentual de cada estado.dll
+C:\Users\pesqu\source\repos\percentual de cada estado\bin\Debug\net5.0\ref\percentual de cada estado.dll
+C:\Users\pesqu\source\repos\percentual de cada estado\bin\Debug\net5.0\percentual de cada estado.pdb
+C:\Users\pesqu\source\repos\percentual de cada estado\obj\Debug\net5.0\percentual de cada estado.csproj.AssemblyReference.cache
+C:\Users\pesqu\source\repos\percentual de cada estado\obj\Debug\net5.0\percentual de cada estado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pesqu\source\repos\percentual de cada estado\obj\Debug\net5.0\percentual de cada estado.AssemblyInfoInputs.cache
+C:\Users\pesqu\source\repos\percentual de cada estado\obj\Debug\net5.0\percentual de cada estado.AssemblyInfo.cs
+C:\Users\pesqu\source\repos\percentual de cada estado\obj\Debug\net5.0\percentual de cada estado.csproj.CoreCompileInputs.cache
+C:\Users\pesqu\source\repos\percentual de cada estado\obj\Debug\net5.0\percentual de cada estado.dll
+C:\Users\pesqu\source\repos\percentual de cada estado\obj\Debug\net5.0\ref\percentual de cada estado.dll
+C:\Users\pesqu\source\repos\percentual de cada estado\obj\Debug\net5.0\percentual de cada estado.pdb
+C:\Users\pesqu\source\repos\percentual de cada estado\obj\Debug\net5.0\percentual de cada estado.genruntimeconfig.cache
